@@ -1,0 +1,8 @@
+{
+  "name": "nextjs-app",
+  "version": "1.0.0",
+  "description": "Basic folder structure of Next.js App Router",
+  "scripts": {
+    "dev": "next dev"
+  }
+}
